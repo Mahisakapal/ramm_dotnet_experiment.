@@ -27,4 +27,4 @@ stages:
         repository: 'mahisakapal'
         command: 'buildAndPush'
         Dockerfile: '**/Dockerfile'
-    -
+    
